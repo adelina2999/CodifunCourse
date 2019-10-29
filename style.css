@@ -1,3 +1,15 @@
 .h1-color {
-	color: white;
+	color: #302d41;
+}
+
+.align-center {
+    text-align: center;
+}
+
+.autor-color {
+    color: #009688;
+}
+
+.p-color {
+    color: #5f5f5f;
 }
