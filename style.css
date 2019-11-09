@@ -14,14 +14,23 @@
     color: #5f5f5f;
 }
 
-.yellow-bg {
-    background-color: yellow;
-}
-
 .table {
     width: 100%;
 }
 
 .menu {
     width: 200px;
+}
+
+.span {
+    display: block;
+    background-color: yellow;
+}
+
+.width {
+    width: 100%;
+}
+
+.border {
+    border: 1px solid black;
 }
